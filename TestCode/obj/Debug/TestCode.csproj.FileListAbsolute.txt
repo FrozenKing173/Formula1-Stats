@@ -1,0 +1,6 @@
+C:\Users\FrozenKing173\Desktop\DVT\TestCode\bin\Debug\TestCode.dll
+C:\Users\FrozenKing173\Desktop\DVT\TestCode\bin\Debug\TestCode.pdb
+C:\Users\FrozenKing173\Desktop\DVT\TestCode\obj\Debug\TestCode.csprojAssemblyReference.cache
+C:\Users\FrozenKing173\Desktop\DVT\TestCode\obj\Debug\TestCode.csproj.CoreCompileInputs.cache
+C:\Users\FrozenKing173\Desktop\DVT\TestCode\obj\Debug\TestCode.dll
+C:\Users\FrozenKing173\Desktop\DVT\TestCode\obj\Debug\TestCode.pdb

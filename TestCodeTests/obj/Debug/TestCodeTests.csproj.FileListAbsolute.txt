@@ -1,0 +1,13 @@
+C:\Users\FrozenKing173\Desktop\DVT\TestCodeTests\bin\Debug\TestCodeTests.dll
+C:\Users\FrozenKing173\Desktop\DVT\TestCodeTests\bin\Debug\TestCodeTests.pdb
+C:\Users\FrozenKing173\Desktop\DVT\TestCodeTests\bin\Debug\nunit.framework.dll
+C:\Users\FrozenKing173\Desktop\DVT\TestCodeTests\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\FrozenKing173\Desktop\DVT\TestCodeTests\bin\Debug\TestCode.dll
+C:\Users\FrozenKing173\Desktop\DVT\TestCodeTests\bin\Debug\TestCode.pdb
+C:\Users\FrozenKing173\Desktop\DVT\TestCodeTests\bin\Debug\nunit.framework.pdb
+C:\Users\FrozenKing173\Desktop\DVT\TestCodeTests\bin\Debug\nunit.framework.xml
+C:\Users\FrozenKing173\Desktop\DVT\TestCodeTests\obj\Debug\TestCodeTests.csprojAssemblyReference.cache
+C:\Users\FrozenKing173\Desktop\DVT\TestCodeTests\obj\Debug\TestCodeTests.csproj.CoreCompileInputs.cache
+C:\Users\FrozenKing173\Desktop\DVT\TestCodeTests\obj\Debug\TestCodeTests.csproj.CopyComplete
+C:\Users\FrozenKing173\Desktop\DVT\TestCodeTests\obj\Debug\TestCodeTests.dll
+C:\Users\FrozenKing173\Desktop\DVT\TestCodeTests\obj\Debug\TestCodeTests.pdb
